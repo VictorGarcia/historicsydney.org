@@ -1588,6 +1588,7 @@ img.aligncenter {
 .post-thumbnail img {
 	display: block;
 	margin: 0 auto;
+	width: 100%;
 }
 
 a.post-thumbnail:hover,
@@ -4052,7 +4053,7 @@ p > video {
 		position: fixed;
 		top: 0;
 		left: 0;
-		width: 29.4118%;
+		width: 24.4118%;
 		z-index: 0; /* Fixes flashing bug with scrolling on Safari */
 	}
 
@@ -4066,7 +4067,7 @@ p > video {
 		margin-right: -100%;
 		max-width: 413px;
 		position: relative;
-		width: 29.4118%;
+		width: 24.4118%;
 	}
 
 	.secondary {
@@ -4078,14 +4079,14 @@ p > video {
 	}
 
 	.site-main {
-		padding: 8.3333% 0;
+		padding: 2% 0;
 	}
 
 	.site-content {
 		display: block;
 		float: left;
-		margin-left: 29.4118%;
-		width: 70.5882%;
+		margin-left: 24.4118%;
+		width: 75.5882%;
 	}
 
 	body {
@@ -4430,7 +4431,7 @@ p > video {
 	.hentry,
 	.page-header,
 	.page-content {
-		margin: 0 8.3333%;
+		margin: 0 2%;
 	}
 
 	.hentry {
@@ -4681,7 +4682,7 @@ p > video {
 
 	.site-footer {
 		float: left;
-		margin: 0 0 0 35.2941%;
+		margin: 0 0 0 30.2941%;
 		padding: 0;
 		width: 58.8235%;
 	}
@@ -5828,8 +5829,8 @@ p > video {
 
 @media screen and (min-width: 87.6875em) {
 	body:before {
-		width: -webkit-calc(50% - 289px);
-		width: calc(50% - 289px);
+		width: -webkit-calc(44% - 289px);
+		width: calc(44% - 289px);
 	}
 }
 
