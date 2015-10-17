@@ -1282,7 +1282,7 @@ img.aligncenter {
 .site-header {
 	background-color: #fff;
 	border-bottom: 1px solid rgba(51, 51, 51, 0.1);
-	padding: 7.6923%;
+	padding: 3% 7.6923%;
 }
 
 .site-branding {
@@ -1589,11 +1589,6 @@ img.aligncenter {
 	display: block;
 	margin: 0 auto;
 	width: 100%;
-}
-
-a.post-thumbnail:hover,
-a.post-thumbnail:focus {
-	opacity: 0.85;
 }
 
 .entry-header {
